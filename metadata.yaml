@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41107
     wikipedia: http://en.wikipedia.org/wiki/Joshua_Reed_Giddings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41316#The-Exiles-of-Florida--13-states-seeking-protection-under-Spanish-laws.
 gutenberg_issued: '2012-11-07'
 gutenberg_type: Text
 identifiers:
