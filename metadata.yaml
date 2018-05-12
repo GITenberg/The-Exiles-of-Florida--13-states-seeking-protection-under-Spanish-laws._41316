@@ -1,0 +1,33 @@
+_repo: The-Exiles-of-Florida--13-states-seeking-protection-under-Spanish-laws._41316
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41316-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Giddings, Joshua R. (Joshua Reed)
+    alias: Giddings, J. R. (Joshua Reed)
+    birthdate: 1795
+    deathdate: 1864
+    gutenberg_agent_id: '41107'
+    url: http://www.gutenberg.org/2009/agents/41107
+    wikipedia: http://en.wikipedia.org/wiki/Joshua_Reed_Giddings
+description: ''
+gutenberg_issued: '2012-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41316'
+  lccn: 02016798
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seminole War, 1st, 1817-1818'
+- !lcc 'E011'
+- !lcsh 'Seminole War, 2nd, 1835-1842'
+- !lcsh 'Maroons'
+title: "The Exiles of Florida\r\nor, The crimes committed by our government against\
+  \ the Maroons, who fled from South Carolina and other slave states, seeking protection\
+  \ under Spanish laws."
+url: http://www.gutenberg.org/ebooks/41316
